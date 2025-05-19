@@ -1,4 +1,4 @@
-# Markilang: Mari Kita Lelang
+# Markilang: Mari Kita Lelang (Archived)
 
 ![banner](md/banner.png)
 
@@ -8,7 +8,6 @@ MARKILANG provides auction services for those wanting to auction small valuables
 
 -   Website: [Markilang](https://www.markilang.online/)
 -   Figma: [Markilang](https://www.figma.com/file/o53EEp55ijq0FK2oxSlSWn/RevoU-Final-Project---Group-2?type=design&node-id=0-1&mode=design&t=B9ytkCri1mgdYgJS-0)
--   GitHub: [Markilang](https://github.com/revou-fsse-1/w24-group-final-group-2)
 
 ## Team Members
 
